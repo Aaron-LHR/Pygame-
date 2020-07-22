@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d7d3c4c-099e-4fa1-a777-3ea94e0cc448" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PwfUsHgFn53Pc8D4l0nYbkxSVk" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="kingdom defender" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\kingdom_defender\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7d3c4c-099e-4fa1-a777-3ea94e0cc448" name="Default Changelist" comment="" />
+      <created>1566790097419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566790097419</updated>
+      <workItem from="1566790119702" duration="236000" />
+      <workItem from="1566790380695" duration="636000" />
+      <workItem from="1566799185067" duration="898000" />
+      <workItem from="1566801391337" duration="18417000" />
+      <workItem from="1566828779793" duration="683000" />
+      <workItem from="1566868230989" duration="19358000" />
+      <workItem from="1566910969904" duration="3314000" />
+      <workItem from="1566917150226" duration="327000" />
+      <workItem from="1566953498423" duration="10443000" />
+      <workItem from="1566974613131" duration="17274000" />
+      <workItem from="1567004583020" duration="33000" />
+      <workItem from="1567039782824" duration="6539000" />
+      <workItem from="1567047389016" duration="1154000" />
+      <workItem from="1567059712873" duration="5172000" />
+      <workItem from="1567088968517" duration="4446000" />
+      <workItem from="1567125672789" duration="17151000" />
+      <workItem from="1567167046832" duration="4195000" />
+      <workItem from="1567214990327" duration="6765000" />
+      <workItem from="1567232453880" duration="2692000" />
+      <workItem from="1567339853233" duration="364000" />
+      <workItem from="1567426697113" duration="4721000" />
+      <workItem from="1567493102366" duration="2584000" />
+      <workItem from="1567496002304" duration="79000" />
+      <workItem from="1568212160940" duration="1500000" />
+      <workItem from="1574334913572" duration="134000" />
+      <workItem from="1574335339430" duration="2590000" />
+      <workItem from="1574942421554" duration="11170000" />
+      <workItem from="1574955463104" duration="4000" />
+      <workItem from="1575188461658" duration="301000" />
+      <workItem from="1575188790152" duration="460000" />
+      <workItem from="1575301791955" duration="218000" />
+      <workItem from="1575382544941" duration="148000" />
+      <workItem from="1576139559353" duration="1322000" />
+      <workItem from="1576149283621" duration="1601000" />
+      <workItem from="1595431360084" duration="918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1595431460921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595431460921" />
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1595432282453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595432282453" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1595432282452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595432282452" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1595432282452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595432282452" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1595432282453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595432282453" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1595431492815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595431492815" />
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1595431360112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595431360112" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kingdom_defender$test.coverage" NAME="test Coverage Results" MODIFIED="1595432282419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
