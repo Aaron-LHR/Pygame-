@@ -14,7 +14,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\kingdom_defender\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1PwfUsHgFn53Pc8D4l0nYbkxSVk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -95,7 +106,7 @@
       <workItem from="1575382544941" duration="148000" />
       <workItem from="1576139559353" duration="1322000" />
       <workItem from="1576149283621" duration="1601000" />
-      <workItem from="1595431360084" duration="918000" />
+      <workItem from="1595431360084" duration="1736000" />
     </task>
     <servers />
   </component>
